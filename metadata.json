@@ -1,0 +1,7 @@
+{
+  "name": "Copy of DreamSpace - AI Interior Designer",
+  "description": "Transform your room with AI. Upload a photo and see your space reimagined in various styles using Gemini's advanced visual processing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
