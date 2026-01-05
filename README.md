@@ -1,3 +1,5 @@
+# This project is a full-stack AI interior design web app that allows users to upload images of their rooms and receive intelligent, style-based interior design recommendations and visual concepts using generative AI.
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
