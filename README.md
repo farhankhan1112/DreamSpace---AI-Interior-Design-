@@ -1,4 +1,4 @@
-# DreamSpace-AI-Interior-Design
+# DreamSpace-AI Interior Design
 - This project is a full-stack AI interior design web app that allows users to upload images of their rooms and receive intelligent, style-based interior design recommendations and  visual concepts using generative AI.
 
 <div align="center">
