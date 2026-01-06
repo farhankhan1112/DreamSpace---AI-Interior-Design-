@@ -34,6 +34,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1-EdzUbFnTW9CIt7HFbKivY
 - download Design button
 ![image alt](https://github.com/farhankhan1112/DreamSpace---AI-Interior-Design-/blob/e286e03668897fa2d421ff62104f3144f2717bce/project%20screenshot/Output%20Page.png)
 
+---
 
 ## 🚀 Features
 
@@ -45,6 +46,8 @@ View your app in AI Studio: https://ai.studio/apps/drive/1-EdzUbFnTW9CIt7HFbKivY
 - ⚡ Fast and responsive UI
 - 🌐 Full-stack architecture
 - 🔮 Powered by **Generative AI**
+
+---
 
 ## 🧠 How Generative AI Is Used
 
