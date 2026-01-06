@@ -27,12 +27,12 @@ View your app in AI Studio: https://ai.studio/apps/drive/1-EdzUbFnTW9CIt7HFbKivY
 - Upload Room Image
 - AI Design Suggestions
 - Style Selection
-![Upload Room](project screenshot/Screenshot 2026-01-05 231249.png)
+![image alt](project screenshot/Screenshot 2026-01-05 231249.png)
 
 ## AI Redesign Page 
 - we can see befor and after image
 - download Design button
-![Upload Room](project screenshot/Screenshot 2026-01-05 231449.png)
+![image alt](project screenshot/Screenshot 2026-01-05 231449.png)
 
 
 ## 🚀 Features
