@@ -21,3 +21,59 @@ View your app in AI Studio: https://ai.studio/apps/drive/1-EdzUbFnTW9CIt7HFbKivY
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+
+## Project Home page
+- Upload Room Image
+- AI Design Suggestions
+- Style Selection
+![Upload Room](project screenshot/Screenshot 2026-01-05 231249.png)
+
+## AI Redesign Page 
+- we can see befor and after image
+- download Design button
+![Upload Room](project screenshot/Screenshot 2026-01-05 231449.png)
+
+
+## 🚀 Features
+
+- 📸 Upload room images (JPEG/PNG)
+- 🧠 AI-powered room analysis
+- 🎨 Multiple interior design styles (Modern, Minimalist, Scandinavian, Luxury, Bohemian, Industrial)
+- 🛋️ Furniture, color palette & décor recommendations
+- 💡 Lighting and space optimization suggestions
+- ⚡ Fast and responsive UI
+- 🌐 Full-stack architecture
+- 🔮 Powered by **Generative AI**
+
+## 🧠 How Generative AI Is Used
+
+This project leverages **Generative AI** to:
+
+- Understand room layout, structure, and spatial constraints from images
+- Generate new interior design concepts while preserving the original room geometry
+- Suggest realistic furniture placement, materials, colors, and lighting
+- Create detailed prompts for AI image rendering models
+- Provide human-like design explanations and summaries
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML / CSS / JavaScript
+- React / Next.js *(optional)*
+- Tailwind CSS *(optional)*
+
+### Backend
+- Node.js / Express
+- REST APIs
+
+### AI & ML
+- Google AI Studio (Gemini)
+- Generative AI (Image + Text)
+- Prompt Engineering
+
+### Other
+- Cloud Storage (for image uploads)
+- GitHub for version control
