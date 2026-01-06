@@ -78,10 +78,12 @@ This project leverages **Generative AI** to:
 - Cloud Storage (for image uploads)
 - GitHub for version control
 
-#📜 License
+---
+# 📜 License
 
 This project is licensed under the MIT License.
+--- 
 
-#⭐ Support
+# ⭐ Support
 
 If you like this project, please ⭐ the repository and share it!
