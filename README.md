@@ -27,12 +27,12 @@ View your app in AI Studio: https://ai.studio/apps/drive/1-EdzUbFnTW9CIt7HFbKivY
 - Upload Room Image
 - AI Design Suggestions
 - Style Selection
-![image alt](project screenshot/Screenshot 2026-01-05 231249.png)
+![image alt](https://github.com/farhankhan1112/DreamSpace---AI-Interior-Design-/blob/e286e03668897fa2d421ff62104f3144f2717bce/project%20screenshot/Home%20Page.png)
 
 ## AI Redesign Page 
 - we can see befor and after image
 - download Design button
-![image alt](project screenshot/Screenshot 2026-01-05 231449.png)
+![image alt](https://github.com/farhankhan1112/DreamSpace---AI-Interior-Design-/blob/e286e03668897fa2d421ff62104f3144f2717bce/project%20screenshot/Output%20Page.png)
 
 
 ## 🚀 Features
@@ -77,3 +77,11 @@ This project leverages **Generative AI** to:
 ### Other
 - Cloud Storage (for image uploads)
 - GitHub for version control
+
+#📜 License
+
+This project is licensed under the MIT License.
+
+#⭐ Support
+
+If you like this project, please ⭐ the repository and share it!
